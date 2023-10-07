@@ -6,7 +6,8 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dsimplichev&theme=highcontrast&show_icons=true&hide_border=false&count_private=true" height="150" alt="languages graph"  />
-  <img <img src="https://streak-stats.demolab.com?user=dsimplichev&theme=dark" alt="GitHub Streak" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=dsimplichev&theme=dark" alt="GitHub Streak" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsimplichev&theme=highcontrast&show_icons=true&hide_border=false&layout=compact" />
 </div>
 
 
